@@ -2,7 +2,7 @@
   "name": "coin-counter",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "coin.js",
   "scripts": {
     "build": "webpack --mode=development",
     "start": "npm run build && webpack-dev-server --open --mode=development",
